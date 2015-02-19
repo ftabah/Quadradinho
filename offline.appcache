@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1424181522
+#1424307409
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -18,6 +18,14 @@ images/lavadrop-sheet0.png
 images/zigzagger-sheet0.png
 images/sprite3-sheet0.png
 images/sprite3-sheet1.png
+images/bat2-sheet0.png
+images/bat2-sheet1.png
+images/collectable2-sheet0.png
+images/collectable2-sheet1.png
+images/thegate-sheet0.png
+images/upanddowner-sheet0.png
+images/resizer-sheet0.png
+images/bat3-sheet0.png
 media/player_hit_by_missile.ogg
 media/bullet_hit_metal_6.ogg
 media/69297.ogg
